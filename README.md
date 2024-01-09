@@ -3,7 +3,7 @@
 # 路线
 | 目录                                      | 是否完成 |
 | ----------------------------------------- | -------- |
-| [一、FFMPEG获本地视频文件信息]()            | ❌        |
+| [一、FFMPEG获本地视频文件信息](https://github.com/shizishen/FFmpeg-Android/blob/main/app/src/main/cpp/ffmpegAnalyStreams.cpp)            | ✅        |
 | [二、视频基础知识]()                      | ❌        |
 | [三、音频采集]()                          | ❌        |
 | [四、视频采集]()                          | ❌        |
