@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "native-lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native-lib-Debug-318c7e3cddcc358c730b.json",
+					"name" : "native-lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/lsw/data/\u5de5\u4f5c\u6210\u679c/\u97f3\u89c6\u9891\u5f00\u53d1/Android\u97f3\u89c6\u9891\u64ad\u653e\u5668/FFPlayerDemo-master/app/.cxx/Debug/2p2u2a3g/x86",
+		"source" : "/media/lsw/data/\u5de5\u4f5c\u6210\u679c/\u97f3\u89c6\u9891\u5f00\u53d1/Android\u97f3\u89c6\u9891\u64ad\u653e\u5668/FFPlayerDemo-master/app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/.cxx/Debug/9445x1k3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/.cxx/Debug/9445x1k3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "x86",
+      "output": "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/build/intermediates/cxx/Debug/9445x1k3/obj/x86/libnative-lib.so",
+      "runtimeFiles": [
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libavutil.so",
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libswresample.so",
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libswscale.so",
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libavcodec.so",
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libavformat.so",
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libavfilter.so",
+        "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/src/main/jniLibs/x86/libavdevice.so"
+      ]
+    }
+  }
+}

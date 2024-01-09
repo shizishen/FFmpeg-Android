@@ -1,0 +1,311 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -c;--target=x86_64-none-linux-android21 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -c;--target=x86_64-none-linux-android21 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags: -c;--target=x86_64-none-linux-android21 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags:  
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags: -c 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags: --c++ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags: --ec++ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: -frtti;-fexceptions
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags: -c;--target=x86_64-none-linux-android21 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+clang: error: no input files
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+clang: error: no input files
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/.cxx/Debug/1v6b6v4w/x86_64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_7f1e9 && [1/2] Building C object CMakeFiles/cmTC_7f1e9.dir/CMakeCCompilerABI.c.o
+FAILED: CMakeFiles/cmTC_7f1e9.dir/CMakeCCompilerABI.c.o 
+/media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang    -o CMakeFiles/cmTC_7f1e9.dir/CMakeCCompilerABI.c.o -c /home/lsw/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+clang: error: no input files
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/.cxx/Debug/1v6b6v4w/x86_64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_2ba7a && [1/2] Building C object CMakeFiles/cmTC_2ba7a.dir/testCCompiler.c.o
+FAILED: CMakeFiles/cmTC_2ba7a.dir/testCCompiler.c.o 
+/media/lsw/data/android-ndk-r24/toolchains/llvm/prebuilt/linux-x86_64/bin/clang    -o CMakeFiles/cmTC_2ba7a.dir/testCCompiler.c.o -c '/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/.cxx/Debug/1v6b6v4w/x86_64/CMakeFiles/CMakeTmp/testCCompiler.c'
+clang: error: no input files
+ninja: build stopped: subcommand failed.
+
+
+

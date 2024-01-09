@@ -1,0 +1,9 @@
+# ninja log v5
+1	404	1704768244145580300	CMakeFiles/native-lib.dir/src/main/cpp/encode_video.cpp.o	6745566c40da04a3
+1	8	1704680230486197500	CMakeFiles/native-lib.dir/src/main/cpp/h264.cpp.o	b8a95efbf5c0d59d
+1	20	1704795340459191900	../../../../build/intermediates/cxx/Debug/9445x1k3/obj/x86_64/libnative-lib.so	b9a743f0f2edf10f
+1	48	1704786138084590500	CMakeFiles/native-lib.dir/src/main/cpp/ffmpegAnalyStreams.cpp.o	f76a51c2815c47b9
+1	165	1704680230642195900	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	a8e32fbf18f800ae
+1	295	1704768244033576000	CMakeFiles/native-lib.dir/src/main/cpp/encode_audio.cpp.o	58f8fe8d7489300c
+0	176	1704795595819922100	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	a8e32fbf18f800ae
+177	206	1704795595847922600	../../../../build/intermediates/cxx/Debug/9445x1k3/obj/x86_64/libnative-lib.so	b9a743f0f2edf10f

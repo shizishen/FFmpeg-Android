@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/.cxx/Debug/9445x1k3/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/.cxx/Debug/9445x1k3/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "output": "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/build/intermediates/cxx/Debug/9445x1k3/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": [
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libavutil.so",
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libswresample.so",
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libswscale.so",
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libavcodec.so",
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libavformat.so",
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libavfilter.so",
+        "/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/src/main/jniLibs/armeabi-v7a/libavdevice.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/lsw/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/lsw/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

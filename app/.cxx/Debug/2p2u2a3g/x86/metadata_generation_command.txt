@@ -1,0 +1,19 @@
+                        -H/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/home/lsw/Android/Sdk/ndk/25.1.8937393
+-DCMAKE_ANDROID_NDK=/home/lsw/Android/Sdk/ndk/25.1.8937393
+-DCMAKE_TOOLCHAIN_FILE=/home/lsw/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/lsw/Android/Sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/build/intermediates/cxx/Debug/2p2u2a3g/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/build/intermediates/cxx/Debug/2p2u2a3g/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/media/lsw/data/工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-master/app/.cxx/Debug/2p2u2a3g/x86
+-GNinja
+                        Build command args: []
+                        Version: 2
