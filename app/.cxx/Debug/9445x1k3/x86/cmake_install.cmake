@@ -1,4 +1,4 @@
-# Install script for directory: /media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app
+# Install script for directory: /media/lsw/data/工作成果/专业工作成果/音视频开发/FFmpeg-Android/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/.cxx/Debug/9445x1k3/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/lsw/data/工作成果/专业工作成果/音视频开发/FFmpeg-Android/app/.cxx/Debug/9445x1k3/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

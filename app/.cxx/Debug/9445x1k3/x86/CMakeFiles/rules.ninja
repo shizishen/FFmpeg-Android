@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/lsw/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app -B/media/lsw/data/工作成果/专业工作成果/音视频开发/Android音视频播放器/FFPlayerDemo-TEST/app/.cxx/Debug/9445x1k3/x86
+  command = /home/lsw/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/media/lsw/data/工作成果/专业工作成果/音视频开发/FFmpeg-Android/app -B/media/lsw/data/工作成果/专业工作成果/音视频开发/FFmpeg-Android/app/.cxx/Debug/9445x1k3/x86
   description = Re-running CMake...
   generator = 1
 

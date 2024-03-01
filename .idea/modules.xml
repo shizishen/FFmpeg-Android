@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FFPlayerDemo-TEST.iml" filepath="$PROJECT_DIR$/.idea/modules/FFPlayerDemo-TEST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFPlayerDemo-TEST.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FFmpeg-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/FFmpeg-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FFmpeg-Android.app.unitTest.iml" />
     </modules>
   </component>
 </project>
