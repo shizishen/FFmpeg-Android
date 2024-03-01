@@ -4,7 +4,7 @@
 | 目录                                      | 是否完成 |
 | ----------------------------------------- | -------- |
 | [一、FFMPEG获本地视频文件信息](https://github.com/shizishen/FFmpeg-Android/blob/main/app/src/main/cpp/ffmpegAnalyStreams.cpp)            | ✅        |
-| [二、视频基础知识]()                      | ❌        |
+| [二、视频基础知识](https://pcmk1ozihf.feishu.cn/docx/JWhHd2VwxoSmezx4TFCcBcCPnxe?from=from_copylink)                      | ✅         |
 | [三、音频采集]()                          | ❌        |
 | [四、视频采集]()                          | ❌        |
 | [五、YUV 格式详解]()                      | ❌        |
